@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "product_name":"Nike T-shirt",
+        "category":"T-shirts",
+        "product_price":20,
+        "description":"Beautiful White Nike T-shirt",
+        "stock":18,
+        "stock_image":"image.png"
+    },
+    {
+        "id":2,
+        "product_name":"Nike Trousers",
+        "category":"Trousers",
+        "product_price":40,
+        "description":"Gray Trousers",
+        "stock":20,
+        "stock_image":"image2.png"
+    },
+    {
+        "id":3,
+        "product_name":"Nike Shorts",
+        "category":"Shorts",
+        "product_price":27,
+        "description":"Red Nike Shorts",
+        "stock":22,
+        "stock_image":"image3.png"
+    },
+    {
+        "id":4,
+        "product_name":"Air Jordan 1",
+        "category":"Shoes",
+        "product_price":20,
+        "description":"New Air Jordans On Stock",
+        "stock":23,
+        "stock_image":"image4.png"
+    },
+    {
+        "id":5,
+        "product_name":"Wireless Headphones",
+        "category":"Headphones",
+        "product_price":70,
+        "description":"Wireless Headphones With Great Sound Quality",
+        "stock":4,
+        "stock_image":"image5.png"
+    },
+    {
+        "id":6,
+        "product_name":"Bluetooth Speaker",
+        "category":"Technology",
+        "product_price":89,
+        "description":"Portable Bluetooth Speaker With High bass",
+        "stock":7,
+        "stock_image":"image6.png"
+    },
+    {
+        "id":7,
+        "product_name":"Electric Scooter",
+        "category":"Electronics",
+        "product_price":325,
+        "description":"Foldable Electric Scooter",
+        "stock":3,
+        "stock_image":"image7.png"
+    },
+    {
+        "id":8,
+        "product_name":"Digital Camera",
+        "category":"Technology",
+        "product_price":20,
+        "description":"Digital Camera with 4k video recording",
+        "stock":2,
+        "stock_image":"image8.png"
+    }
+]
